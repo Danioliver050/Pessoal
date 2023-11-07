@@ -1,0 +1,39 @@
+<doctype html>
+  <head>
+    <html lang="pt-br">
+    <title>Lewis hamilton</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="conteudo2.css" />
+  </head>
+
+  <body>
+    
+    <div id="imagem1">
+      <img src="imagens/imgs/lewis2016-removebg-preview.png">
+      
+    </div>
+    
+    <div id="imagem2">
+      <p style="color: white; font-size: 14;" >Lewis Hamilton <br>7x campeão mundial  </p>
+      <img src="imagens/imgs/lewisesquerda-removebg-preview.png">
+    </div>
+
+    <div id="imagem3">
+      <img src="imagens/imgs/lewisbrazil-removebg-preview.png">
+    </div>
+        <div id="cabeçalho">
+         <p>
+          EXERCÍCIO 2 - CSS <br />
+          Terça-feira /Noturno/ 19:10-21:50 <br />
+          RGM: 32850212 <br />
+          Nome Completo: Daniel Oliveira Machado <br />
+          <p></p>
+        </div>
+    
+  </body>
+</html>
+
+
+
+
+
